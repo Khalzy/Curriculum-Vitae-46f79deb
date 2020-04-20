@@ -1,0 +1,20 @@
+
+
+
+.bg_color{
+    /* background-color: grey; */
+    background: url("bg.gif");
+
+}
+
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    color: white;
+    text-align: center;
+    display: block;
+}
